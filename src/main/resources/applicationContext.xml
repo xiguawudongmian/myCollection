@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<boxContext>
+    <config>
+    </config>
+    <mappers>
+        <mapper name="java.util.List">java.util.ArrayList</mapper>
+    </mappers>
+
+
+</boxContext>
